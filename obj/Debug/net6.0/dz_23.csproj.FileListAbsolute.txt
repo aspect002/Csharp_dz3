@@ -1,0 +1,15 @@
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.csproj.AssemblyReference.cache
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.AssemblyInfoInputs.cache
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.AssemblyInfo.cs
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.csproj.CoreCompileInputs.cache
+C:\Csharp_dz3\dz_23\bin\Debug\net6.0\dz_23.exe
+C:\Csharp_dz3\dz_23\bin\Debug\net6.0\dz_23.deps.json
+C:\Csharp_dz3\dz_23\bin\Debug\net6.0\dz_23.runtimeconfig.json
+C:\Csharp_dz3\dz_23\bin\Debug\net6.0\dz_23.dll
+C:\Csharp_dz3\dz_23\bin\Debug\net6.0\dz_23.pdb
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.dll
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\refint\dz_23.dll
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.pdb
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\dz_23.genruntimeconfig.cache
+C:\Csharp_dz3\dz_23\obj\Debug\net6.0\ref\dz_23.dll
